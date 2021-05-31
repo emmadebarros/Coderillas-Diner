@@ -1,4 +1,4 @@
-# Mini Restaurant Project - Intermediate Java Final Project
+# The Coderillas Diner - Intermediate Java Final Project
 # Description
 
 This is the final source code for the final PROGRAMMING II Java - OBJECT ORIENTED PROGRAMMING course, with professor [Reza Salchian](https://www.linkedin.com/in/reza-shalchian-70177b94/) 🔗.
